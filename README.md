@@ -17,7 +17,6 @@
   <li>👉 Game Development</li>
   <li>👉 Software Development</li>
 </ul>
-<br />
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -125,6 +124,18 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://www.adobe.com/products/flashplayer/end-of-life-alternative.html"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://img.icons8.com/color/48/null/adobe-flash--v1.png"
       alt="react"
       width="40"
       height="40"
