@@ -4,7 +4,7 @@
     width="30"
     height="30"
     src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"
-  /> I'm Vijay Kumar Yadav
+  />, I'm Vijay Kumar Yadav
 </h1>
 <h3 align="center">I'M 🖥️Computer Science Student from India..</h3>
 
@@ -12,14 +12,6 @@
 <br />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
-      alt="blender"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -130,7 +122,7 @@
   </a>
 </p>
 <br />
-<br />
+
 <br />
 <p align="center">
   <img
@@ -141,14 +133,8 @@
   />
 </p>
 
-<p align="center">
-  <img
-    align="center"
-    width="100%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=vijay-kumar-yadav&"
-    alt="vijay-kumar-yadav"
-  />
-</p>
+(https://github-readme-stats.vercel.app/api?username=vijay-kumar-yadav)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
