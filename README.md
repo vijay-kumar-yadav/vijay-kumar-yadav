@@ -6,7 +6,7 @@
     src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"
   />, I'm Vijay Kumar Yadav
 </h1>
-<h3 align="center">I'M 🖥️Computer Science Student from India..</h3>
+<h3 align="center">I'M 🖥️Computer Science Student from India</h3>
 
 <br />
 <br />
@@ -122,18 +122,32 @@
   </a>
 </p>
 <br />
-
-<br />
+<h3 align="left">Github S   tats:</h3>
 <p align="center">
   <img
     align="center"
     width="100%"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=vijay-kumar-yadav&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-kumar-yadav&layout=compact&theme=dark&show_icons=true"
     alt="vijay-kumar-yadav"
   />
 </p>
 
-(https://github-readme-stats.vercel.app/api?username=vijay-kumar-yadav)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img
+    align="center"
+    width="100%"
+    src="https://github-readme-stats.vercel.app/api?username=vijay-kumar-yadav&theme=dark&show_icons=true"
+    alt="vijay-kumar-yadav"
+  />
+</p>
+<p align="center">
+    <img
+      align="center"
+      width="100%"
+      src="https://activity-graph.herokuapp.com/graph?username=vijay-kumar-yadav&theme=dark"
+      alt="vijay-kumar-yadav"
+    />
+  </p>
 
 
 <h3 align="left">Connect with me:</h3>
