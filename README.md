@@ -10,7 +10,14 @@
 
 <br />
 <br />
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Interests</h3>
+<ul type="none">
+  <li>👉 Web Development</li>
+  <li>👉 AI/ML</li>
+  <li>👉 Game Development</li>
+  <li>👉 Software Development</li>
+</ul>
+<h3 align="left">Languages and Tools</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
@@ -68,6 +75,8 @@
       height="40"
     />
   </a>
+  <br />
+  <br />
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
@@ -122,36 +131,34 @@
   </a>
 </p>
 <br />
-<h3 align="left">Github S   tats:</h3>
-<p align="center">
+<h3 align="left">Github Stats</h3>
+<p align="left">
   <img
     align="center"
-    width="100%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-kumar-yadav&layout=compact&theme=dark&show_icons=true"
     alt="vijay-kumar-yadav"
   />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img
     align="center"
     width="100%"
     src="https://github-readme-stats.vercel.app/api?username=vijay-kumar-yadav&theme=dark&show_icons=true"
     alt="vijay-kumar-yadav"
   />
-</p>
-<p align="center">
-    <img
-      align="center"
-      width="100%"
-      src="https://activity-graph.herokuapp.com/graph?username=vijay-kumar-yadav&theme=dark"
-      alt="vijay-kumar-yadav"
-    />
-  </p>
-
-
-<h3 align="left">Connect with me:</h3>
+</p> -->
 <p align="left">
+  <img
+    align="center"
+    width="80%"
+    src="https://activity-graph.herokuapp.com/graph?username=vijay-kumar-yadav&theme=dracula"
+    alt="vijay-kumar-yadav"
+  />
+</p>
+<br />
+<h3 align="left">Connect with me</h3>
+<p align="center">
   <a href="https://linkedin.com/in/vijay-kumar-yadav023" target="blank"
     ><img
       align="center"
