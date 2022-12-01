@@ -147,7 +147,7 @@
 <p align="left">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-kumar-yadav&layout=compact&theme=dark&show_icons=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"
     alt="vijay-kumar-yadav"
   />
 </p>
@@ -174,7 +174,7 @@
   <a href="https://linkedin.com/in/vijay-kumar-yadav023" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      src="https://img.icons8.com/color/48/null/linkedin.png"
       alt="vijay-kumar-yadav023"
       height="30"
       width="40"
@@ -182,7 +182,7 @@
   <a href="https://stackoverflow.com/users/17466378" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+      src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"
       alt="17466378"
       height="30"
       width="40"
