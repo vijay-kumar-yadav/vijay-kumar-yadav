@@ -147,7 +147,7 @@
 <p align="left">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-kumar-yadav&layout=compact"
     alt="vijay-kumar-yadav"
   />
 </p>
@@ -170,7 +170,7 @@
 </p>
 <br />
 <h3 align="left">Connect with me</h3>
-<p align="left" style="margin-left:30px">
+<div align="left">
   <a href="https://linkedin.com/in/vijay-kumar-yadav023" target="blank"
     ><img
       align="center"
@@ -187,4 +187,4 @@
       height="30"
       width="40"
   /></a>
-</p>
+</div>
