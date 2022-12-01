@@ -170,7 +170,7 @@
 </p>
 <br />
 <h3 align="left">Connect with me</h3>
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/vijay-kumar-yadav023" target="blank"
     ><img
       align="center"
