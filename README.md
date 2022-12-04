@@ -156,7 +156,7 @@
   <img
     align="center"
     width="100%"
-    src="https://github-readme-stats.vercel.app/api?username=vijay-kumar-yadav&theme=dark&show_icons=true"
+    src="https://github-readme-stats.vercel.app/api?username=vijay-kumar-yadav&theme=dark&show_icons=true&bg_color=1F222E"
     alt="vijay-kumar-yadav"
   />
 </p> -->
@@ -169,22 +169,15 @@
   />
 </p>
 <br />
-<h3 align="left">Connect with me</h3>
+### Connect With Me
 <div align="left">
   <a href="https://linkedin.com/in/vijay-kumar-yadav023" target="blank"
     ><img
       align="center"
-      src="https://img.icons8.com/color/48/null/linkedin.png"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="vijay-kumar-yadav023"
       height="30"
       width="40"
   /></a>
-  <a href="https://stackoverflow.com/users/17466378" target="blank"
-    ><img
-      align="center"
-      src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"
-      alt="17466378"
-      height="30"
-      width="40"
-  /></a>
+  
 </div>
