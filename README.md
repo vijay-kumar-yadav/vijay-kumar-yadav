@@ -147,7 +147,7 @@
 <p align="left">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-kumar-yadav&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-kumar-yadav&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"
     alt="vijay-kumar-yadav"
   />
 </p>
@@ -169,11 +169,11 @@
   />
 </p>
 <br />
-<h2 align="left">Contact With Me</h2>
+<h3 align="left">Contact With Me</h3>
 <div align="left">
   <a href="https://linkedin.com/in/vijay-kumar-yadav023" target="blank"
     ><img
       align="center"
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="Vijay's Linkedin"/></a>
+      alt="Vijay's LinkedIn"/></a>
 </div>
