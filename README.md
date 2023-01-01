@@ -172,7 +172,7 @@
     alt="vijay-kumar-yadav"
   />
 </p>
-
+ <p align="left"><img alt="Roshan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vijay-kumar-yadav&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></p>
 <!-- <p align="center">
   <img
     align="center"
