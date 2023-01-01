@@ -197,7 +197,7 @@
       align="center"
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="Vijay's LinkedIn"/></a>
-      <a href="vky405021@gmail.com" target="_blank">
+      <a href="href="mailto:vky405021@gmail.com" target="_blank">
   <img align="left" alt="Vijay's Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </div>
