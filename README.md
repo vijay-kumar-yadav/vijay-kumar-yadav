@@ -29,8 +29,6 @@
 </ul>
 <br />
 <br />
-<br />
-<br />
 <h3 align="left">👨‍💻 CP Profiles</h3>
 <ul type="none">
   <li> <a href = "https://auth.geeksforgeeks.org/user/vijay_kumar_yadav">👉 GeeksForGeeks</a></li>
@@ -38,10 +36,8 @@
   <li> <a href = "https://leetcode.com/Vijay_023/">👉 LeetCode</a></li>
 
 </ul>
-
 <br />
 <br />
-
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -201,7 +197,7 @@
       align="center"
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="Vijay's LinkedIn"/></a>
-      <a href="roshank9419@gmail.com" target="_blank">
-  <img align="left" alt="Roshan's Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <a href="vky405021@gmail.com" target="_blank">
+  <img align="left" alt="Vijay's Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </div>
