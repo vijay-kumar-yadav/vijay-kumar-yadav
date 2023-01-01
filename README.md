@@ -6,17 +6,42 @@
     src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"
   />, I'm Vijay Kumar Yadav
 </h1>
-<h4 align="center">I'M 🖥️Computer Science Student from India</h4>
+<h4 align="center">I am 🖥️ Computer Science Student from India</h4>
+<h4 align="center"> I am aspiring full stack web developer. Always eager to learn new technology. I am always ready to take new challenges and tackle them.
+</h4>
 
 <br />
 <br />
-<h3 align="left">Interests</h3>
+<h3 align="left">✨ Interests</h3>
 <ul type="none">
   <li>👉 Web Development</li>
   <li>👉 AI/ML</li>
   <li>👉 Game Development</li>
   <li>👉 Software Development</li>
 </ul>
+<br />
+<br />
+<h3 align="left">🙋‍♂️ Participations </h3>
+<ul type="none">
+  <li>👉 India Tour of Open Source Punjab Edition</li>
+  <li>👉 Social Winter of Code</li>
+  <li>👉 Robotics Lab</li>
+</ul>
+<br />
+<br />
+<br />
+<br />
+<h3 align="left">👨‍💻 CP Profiles</h3>
+<ul type="none">
+  <li> <a href = "https://auth.geeksforgeeks.org/user/vijay_kumar_yadav">👉 GeeksForGeeks</a></li>
+  <li> <a href = "https://www.hackerrank.com/vijay_yadav023/">👉 HackerRank</a></li>
+  <li> <a href = "https://leetcode.com/Vijay_023/">👉 LeetCode</a></li>
+
+</ul>
+
+<br />
+<br />
+
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -176,4 +201,7 @@
       align="center"
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="Vijay's LinkedIn"/></a>
+      <a href="roshank9419@gmail.com" target="_blank">
+  <img align="left" alt="Roshan's Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </div>
