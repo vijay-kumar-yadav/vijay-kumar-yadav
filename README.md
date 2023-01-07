@@ -171,8 +171,8 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-kumar-yadav&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"
     alt="vijay-kumar-yadav"
   />
-</p><!--
- <p align="left"><img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vijay-kumar-yadav&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></p>-->
+</p>
+ <p align="left"><img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vijay-kumar-yadav&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></p>
 <!-- <p align="center">
   <img
     align="center"
@@ -180,7 +180,7 @@
     src="https://github-readme-stats.vercel.app/api?username=vijay-kumar-yadav&theme=dark&show_icons=true&bg_color=1F222E"
     alt="vijay-kumar-yadav"
   />
-</p> -->
+</p> 
 <p align="left">
   <img
     align="center"
@@ -188,7 +188,7 @@
     src="https://activity-graph.herokuapp.com/graph?username=vijay-kumar-yadav&theme=dracula"
     alt="vijay-kumar-yadav"
   />
-</p>
+</p>-->
 <br />
 <h3 align="left">Contact With Me</h3>
 <div align="left">
