@@ -19,7 +19,7 @@
   <li>👉 Game Development</li>
   <li>👉 Software Development</li>
 </ul>
-<br />
+
 <br />
 <h3 align="left">🙋‍♂️ Participations </h3>
 <ul type="none">
@@ -27,7 +27,7 @@
   <li>👉 Social Winter of Code</li>
   <li>👉 Robotics Lab</li>
 </ul>
-<br />
+
 <br />
 <h3 align="left">👨‍💻 CP Profiles</h3>
 <ul type="none">
@@ -36,7 +36,7 @@
   <li> <a href = "https://leetcode.com/Vijay_023/">👉 LeetCode</a></li>
 
 </ul>
-<br />
+
 <br />
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
