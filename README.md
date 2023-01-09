@@ -11,7 +11,7 @@
 </h4>
 
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=vijay-kumar-yadav&theme=onedark)](https://github.com/vijay-kumar-yadav/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vijay-kumar-yadav&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <br />
 <h3 align="left">✨ Interests</h3>
 <ul type="none">
