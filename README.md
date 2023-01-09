@@ -11,8 +11,7 @@
 </h4>
 
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijay-kumar-yadav" alt="vijay's stats" /></a> </p>
-<br />
+[![trophy](https://github-profile-trophy.vercel.app/?username=vijay-kumar-yadav&theme=onedark)](https://github.com/vijay-kumar-yadav/github-profile-trophy)
 <br />
 <h3 align="left">✨ Interests</h3>
 <ul type="none">
