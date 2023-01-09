@@ -10,7 +10,7 @@
 <p align="left"> I am aspiring full stack web developer. Always eager to learn new technology. I am always ready to take new challenges and tackle them.
 </p>
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijay-kumar-yadav&theme=onedark" alt="vjay's stats" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=vijay-kumar-yadav&theme=onedark" alt="vjay's stats" /></p>
 <br />
 <h3 align="left">✨ Interests</h3>
 <ul type="none">
