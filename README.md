@@ -6,9 +6,9 @@
     src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"
   />, I'm Vijay Kumar Yadav
 </h1>
-<h4 align="left">I am 🖥️ Computer Science Student from India</h4>
-<h4 align="left"> I am aspiring full stack web developer. Always eager to learn new technology. I am always ready to take new challenges and tackle them.
-</h4>
+<p align="left">I am 🖥️ Computer Science Student from India</p>
+<p align="left"> I am aspiring full stack web developer. Always eager to learn new technology. I am always ready to take new challenges and tackle them.
+</p>
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijay-kumar-yadav&theme=onedark" alt="vjay's stats" /></a> </p>
 <br />
