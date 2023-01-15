@@ -15,7 +15,6 @@
 <h3 align="left">✨ Interests</h3>
 <ul type="none">
   <li>👉 Web Development</li>
-  <li>👉 AI/ML</li>
   <li>👉 Game Development</li>
   <li>👉 Software Development</li>
 </ul>
