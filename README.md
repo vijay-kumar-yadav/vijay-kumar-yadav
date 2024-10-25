@@ -2,7 +2,7 @@
   Hi, I'm Vijay Kumar Yadav
 </h1>
 <a href="https://github.com/vijay-kumar-yadav"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/vijay-kumar-yadav?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" height="20px"/></a>
-<p align="left">I am 🖥️ Computer Science Student from India</p>
+<p align="left">I am 🖥️ Computer Science Engineer from India</p>
 <p align="left"> I am full stack web developer. Always eager to learn new technology. I am always ready to take new challenges and tackle them.
 </p>
 <br>
